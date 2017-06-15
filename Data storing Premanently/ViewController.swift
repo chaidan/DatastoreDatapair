@@ -45,7 +45,7 @@ class ViewController: UIViewController {
         
         
         // print("strPermanentPhone==>\(strPermanentPhone!)")
-        
+        // Test data storage seem to be a pair in andorodk
         
     }
 
